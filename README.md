@@ -1,0 +1,1 @@
+#Um Plug-in de parallax scroll que ainda precisa de muitas mudanças.
